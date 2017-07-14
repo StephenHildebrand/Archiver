@@ -1,3 +1,5 @@
+package net.shiild.archiver.util;
+
 import java.util.Scanner;
 
 /**
@@ -51,9 +53,6 @@ public class Archiver {
 	 * and searches for it in the list. Each word checked for special characters
 	 * via handleSpecial() which, if found, are handled. Each word is then
 	 * passed to archiveWord() to be archived.
-	 * 
-	 * @param input
-	 *            string input to be archived.
 	 */
 	public void archive() {
 		Scanner sc = new Scanner(input);

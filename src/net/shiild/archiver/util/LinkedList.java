@@ -1,3 +1,5 @@
+package net.shiild.archiver.util;
+
 /**
  * An unsorted linked list made up of nodes, each of which contains data and a
  * link to the next list element. The only data member of LinkedList is the

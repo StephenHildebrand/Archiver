@@ -1,3 +1,7 @@
+package net.shiild.archiver.main;
+
+import net.shiild.archiver.util.Archiver;
+
 import java.util.Scanner;
 
 /**

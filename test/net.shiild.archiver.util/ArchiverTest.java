@@ -1,5 +1,6 @@
 import static org.junit.Assert.*;
 
+import net.shiild.archiver.util.Archiver;
 import org.junit.Before;
 import org.junit.Test;
 
