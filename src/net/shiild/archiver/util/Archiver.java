@@ -124,9 +124,6 @@ public class Archiver {
 	 * the word in the i-th position is written out, then the word is deleted
 	 * from the list and reinserted at the front. Decompression ends when the
 	 * number 0 is read.
-	 * 
-	 * @param input
-	 *            string input to be extracted.
 	 */
 	public void extract() {
 		Scanner sc = new Scanner(input);
