@@ -150,7 +150,7 @@ public class LinkedList {
         if (current != null) { // If current doesn't drop off the end of the list
             if (current == head) { // Is s the first list item?
                 head = head.link;
-            } else { // s is somewhere after the first item
+            } else if (previous != null) { // s is somewhere after the first item
                 previous.link = current.link;
             }
         }

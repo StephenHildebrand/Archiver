@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
 /**
- * Implement an algorithm to compress and uncompress text files using linked
+ * Implement an algorithm to compress and decompress text files using linked
  * lists with the move-to-front heuristic.
  * 
  * @author StephenHildebrand
  */
 public class Main {
 
-	// private static String input;
+	 public String input;
 
 	/**
 	 * Runs the program. Uses the Archiver class to archive or extract the
