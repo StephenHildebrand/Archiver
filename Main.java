@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 
  * @author StephenHildebrand
  */
-public class proj1 {
+public class Main {
 
 	// private static String input;
 
